@@ -216,7 +216,6 @@ main .m-photo{
     max-width: 100%;    
     border-bottom-left-radius: 2.25vw;
     border-top-right-radius: 2.25vw;
-    z-index: -1;
 }
 
 main .m-photo h1{
